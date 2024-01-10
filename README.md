@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/63774604-4d87-41db-acca-74a8427ce387/deploy-status)](https://app.netlify.com/sites/euphonious-cocada-21e218/deploys)
+
 # Aplicación GUA2S
 
 ## Prototipo de la aplicación para el proyecto final de la asignatura de Gestión del Conocimiento en las Organizaciones (GCO) 
