@@ -14,13 +14,13 @@ Es una aplicación colaborativa para la venta de productos típicos de Tenerife,
 La arquitectura que usaremos para implementar la aplicación será de stack MEAN con patrón de
 diseño MVVM, interfaz REST, integración continua con Github Actions+Coveralls y desarrollo ágil con Lean Startup+SCRUM.
 
-MEAN:
+**MEAN**:
 - MongoDB como base de datos.
 - Express.js como web framework.
 - Angular como frontend.
 - Node.js como backend.
 
-MVVM:
+**MVVM**:
 - Modelo Vista Vista Modelo
 - Útil cuando estás trabajando con datos dinámicos y quieres actualizar solo partes de la
 página web.
@@ -28,17 +28,17 @@ página web.
 nativa en Angular usaremos la librería NgRx.
 - Se intentará implementar la programación orientada a eventos (programación reactiva) a través del uso de la librería RxJS.
 
-REST:
+**REST**:
 - Arquitectura de intercomunicación que sigue el protocolo HTTP.
 - Se intentará desarrollar la aplicación compatible RESTful nivel 3, si no, se usará el 2.
 
-JWT:
+**JWT**:
 - Para la gestión de la sesión se usarán tokens JWT.
 
-CI/CD y calidad del código:
+**CI/CD y calidad del código**:
 - Para la integración continua y la calidad del código se usará Github Actions con Codecov.
 
-Marco de trabajo:  
+**Marco de trabajo**:  
 Usaremos la filosofía Lean Startup como canvas y SCRUM como sistema de desarrollo ágil de software para las pinceladas, todo ello gestionado a través de Pivotal Tracker. Las ventajas ofrecidas por este modelo serán:
 - Capacidad de extraer hipótesis y validarlas rápidamente.
 - Facilidad para el cambio de requisitos on the fly.
